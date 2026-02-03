@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Mohamed Samir Azath Ali
 
-![Hacker Vibe GIF](https://media.giphy.com/media/3ohhwH6v6Z8ZExvGUg/giphy.gif)
+![Hacker Terminal](https://media.tenor.com/4Z6u6Pa4FNoAAAAC/matrix-code.gif)
+
 
 **2nd Year Computer Science Diploma Student | IT & Software Enthusiast**  
 
